@@ -5,6 +5,7 @@ At the beginning of the report, I will briefly introduce the main subject of the
 ### Why can it be related with the blockchain?
 Why does it seem that a centrally managed copyright will be related to the blockchain? According to [PWC's latest research](https://www.pwc.com/gx/en/industries/tmt/media/outlook.html), the blockchain has become the eight key technologies affecting the development of the entertainment industry.
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/1.png)
+
 The characteristics of the blockchain have to be the crucial factor. Features are as follows: 1. The blockchain enables peer-to-peer transactions, eliminating the need for transactional intermediaries and thus reducing transaction costs. 2. Transaction settlement is almost real-time, which improves transaction efficiency and greatly improves asset utilization. 3. The irreversible modification of information on the blockchain and the decentralized data storage method make it the best carrier for data records; 4. Programmable blockchain automates the transaction process.
 With the advent of the global digital age, the traditional publishing industry has shifted from paper to digital. The digital reading market and the online music market are all developing rapidly. It is foreseeable that in the near future, many copyrighted content will be digitally digitized versions of the network. Blockchain technology will bring the following three major changes to the current digital rights market:
 *  Copyright protection
