@@ -99,11 +99,6 @@ The essence of pan-entertainment is that IP content generates cultural transmiss
 
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/5.png)
 
-<p align="center">
-	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/6.png" alt="Sample"  width="500" >
-	<p align="center">
-		<em>IP value realization process</em>
-
 The current IP transactions basically have an intermediary and need to pay a large amount of commission to the middle market. At the same time, cross-border IP transactions have generated significant communication costs.
 
 The rapid development of the Internet only enhances the speed and efficiency of global communication, but there is no way to achieve value transfer, and the blockchain can do this. The platform of the blockchain began to appear, mainly adopting the mode of entertainment IP + commercial trade + blockchain, and created the intelligent IP copyright intelligent trading market.
@@ -114,25 +109,70 @@ The open and transparent trading procedure is actually more beneficial to the or
 
 Combined with the blockchain, the depth of IP transactions will increase, and art exchanges no longer require borders and intermediaries.
 
+## What is UIP - Global Entertainment Copyright Trading Platform
+
+### Bascic Introduction
+
+**UnlimitedIP (UIP)** is an entertainment and intellectual property trading platform based on EOS. Utilizing the technology of blockchain and combining the EOS operating system's support for millions of commercial transactions, low latency and free of charge, UIP is committed to providing one-stop entertainment copyright services to global pan-entertainment IP holders.
+
+### Current trading market
+
+UIP is already trading on 6 exchanges. UIP tokens has a total number of 3 billion, with 1.5 billion for sale.
+A total number of 1.5 billion UIP tokens will be released in the next few years and gradually unlocked on other trading exchanges. The remaining 1.5 billion tokens will be locked at least for 2 years. Among these, 500 million of the rest tokens will be used as the UIP layout recreational ecology community fund, and the remaining 1 billion as the UIP project development fund, which will be used for UIP copyright trading ecological construction, media blockchain industry and team expansion.（data from [UIP website](http://www.unlimitedip.io/)）
+
+<p align="center">
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/6.png" alt="Sample"  width="500" >
+	<p align="center">
+		<em> UIP basic trading information </em>
+
+### Copyright form
+
+Each IP meets the following requirements on the entertainment IP intelligent trading platform: (1) the first transaction occurs; (2) the transaction medium is based on the UIPtoken, and the exclusive “IPUnit” is generated, and the buyer chooses whether to sell the percentage through the trading platform. The percentage indicates the size of the equity held by IP. On the one hand, this kind of asset split can alleviate the huge economic pressure of the buyer. On the other hand, IPUnit is held by truly favorite shareholders. Good IP itself as a digital asset should also have a certain degree of sharing and collection value.
+
+UIP will also log in to the Pan-Entertainment Expert Advisor. In addition to 100% of IP-derived content cross-selling, you can also hold shares in the derivative value of this IP.
+
+### Team Introduction
+
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/7.png" alt="Sample"  width="300" >
 	<p align="center">
 		<em>Lingyan Zhao</em>
+		
+*Lingyan Zhao*, the founder of UIP, is a strong woman who is deeply involved in the integration of technology and art assets. She studied at Murdoch University in Australia and received her Masters in Media Management. She studied dual degrees in Electronic Information Engineering and Radio and Television Coordinator at Communication University of China. She has worked as a newspaper editor, film producer and director at home and abroad. In the [previous interview](https://www.jinse.com/news/blockchain/60077.html) , she once talked about the film about Bitcoin, which gave her great shock and inspiration.
 
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/8.png" alt="Sample"  width="300" >
 	<p align="center">
 		<em>Jingchao Chi</em>
 
+*Jingchao Chi*, the current chairman of UIP, has studied at the Dnepr University in Ukraine and obtained a master's degree in computer programs and networking from the Department of Radio Science. After graduation, he was in touch with the entertainment industry. He has teamed up with major strategic partners to create a classic case of multi-type IP operations such as “To Youth 2: You Are Still Here”. After years of precipitation, he has become the most enterprising IP operator in the domestic technology and entertainment industry.
+
+### Star Partners
+
+At present, UIP team has got through the support of many countries. In addition to the Keigo Higashino (will be introduced in detail in the case after), there have been plenty of stars and copyright joined UIP from China and the United States.
+
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/9.png" alt="Sample"  width="300" >
 	<p align="center">
 		<em>Teddy Zee</em>
 
+Hollywood gold medalist *Teddy Zee* has joined the UIP team and is currently a UIP US office partner. He has mastered and possessed many Hollywood high-quality IP resources and will introduce US IP resources into China in the future.
+
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/10.png" alt="Sample"  width="300" >
 	<p align="center">
 		<em>Meisen Zhou</em>
+
+Domestic famous political novelist, "in the name of the people" screenwriter *Meisen Zhou* has also reached a cooperation intention in UIP. Zhou expressed the hope that the implementation of UIP in the future can promote the healthy development of the entertainment industry.
+
+### Platform resources & Strategic partners
+
+The UIP team has a very broad range of resources in the Internet, including Tencent, Youku, and iQiyi.  Platforms are vital for publicity. Combining close ties with Internet platform, UIP will make it easier to get the market.
+
+UIP has signed strategic partnership agreements with a number of companies, including Hengxin Culture, PressOne and the Egret era in the gaming industry.
+
+Recently, the UIP team has reached strategic cooperation with many institutions such as INBlockchain, Taiyiyun Technology, Viking Capital, Digital Chain Technology and Canada CK, and will jointly build the world's first top blockchain IP exchange. They are excellent companies in the industry and have a good strategic relationship with UIP. At the same time they are completing a lot of related projects. These projects and UIP have opened up the upstream and downstream links of the entire entertainment content industry. From the generation of content copyright, the transaction circulation forms a complete industrial chain and an ecological industry circle.
+
 
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/11.png)
 
