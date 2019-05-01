@@ -45,7 +45,7 @@ Based on the anonymity of blockchain technology and the transparency of informat
 		<em>Figure 4</em>
 
 <p align="center">
-	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/5.png" alt="Sample"  width="500" >
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/5.png" alt="Sample"  width="800" >
 	<p align="center">
 		<em>Figure 5</em>
 
@@ -54,13 +54,25 @@ Based on the anonymity of blockchain technology and the transparency of informat
 	<p align="center">
 		<em>Figure 6</em>
 
-![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/7.png)
+<p align="center">
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/7.png" alt="Sample"  width="500" >
+	<p align="center">
+		<em>Figure 7</em>
 
-![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/8.png)
+<p align="center">
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/8.png" alt="Sample"  width="500" >
+	<p align="center">
+		<em>Figure 8</em>
 
-![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/9.png)
+<p align="center">
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/9.png" alt="Sample"  width="500" >
+	<p align="center">
+		<em>Figure 9</em>
 
-![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/10.png)
+<p align="center">
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/10.png" alt="Sample"  width="500" >
+	<p align="center">
+		<em>Figure 10</em>
 
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/11.png)
 
