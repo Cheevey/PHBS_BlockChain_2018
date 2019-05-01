@@ -26,7 +26,7 @@ The current copyright purchases and transactions are mostly middleman trading mo
 Based on the anonymity of blockchain technology and the transparency of information, it can obtain the public data information left by users on the network under the premise of protecting user privacy, and realize the accurate delivery of digital advertisements.
 
 <p align="center">
-	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/2.png" alt="Sample"  width="250" height="140">
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/2.png" alt="Sample"  width="500" >
 	<p align="center">
 		<em>Figure 2</em>
 
