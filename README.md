@@ -9,7 +9,7 @@ Why does it seem that a centrally managed copyright will be related to the block
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/1.png" alt="Sample"  width="500" >
 	<p align="center">
-		<em>Figure 1</em>
+		<em>key technologies affecting the development of the entertainment industry</em>
 
 The characteristics of the blockchain have to be the crucial factor. Features are as follows: 
 1. The blockchain enables peer-to-peer transactions, eliminating the need for transactional intermediaries and thus reducing transaction costs. 
@@ -54,22 +54,22 @@ Based on the anonymity of blockchain technology and the transparency of informat
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/7.png" alt="Sample"  width="300" >
 	<p align="center">
-		<em>Figure 7</em>
+		<em>Lingyan Zhao</em>
 
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/8.png" alt="Sample"  width="300" >
 	<p align="center">
-		<em>Figure 8</em>
+		<em>Jingchao Chi</em>
 
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/9.png" alt="Sample"  width="300" >
 	<p align="center">
-		<em>Figure 9</em>
+		<em>Teddy Zee</em>
 
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/10.png" alt="Sample"  width="300" >
 	<p align="center">
-		<em>Figure 10</em>
+		<em>Meisen Zhou</em>
 
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/11.png)
 
