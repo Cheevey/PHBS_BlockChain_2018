@@ -6,7 +6,10 @@ At the beginning of the report, I will briefly introduce the main subject of the
 
 Why does it seem that a centrally managed copyright will be related to the blockchain? According to [PWC's latest research](https://www.pwc.com/gx/en/industries/tmt/media/outlook.html), the blockchain has become the eight key technologies affecting the development of the entertainment industry.
 
-![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/1.png)
+<p align="center">
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/1.png" alt="Sample"  width="500" >
+	<p align="center">
+		<em>Figure 1</em>
 
 The characteristics of the blockchain have to be the crucial factor. Features are as follows: 
 1. The blockchain enables peer-to-peer transactions, eliminating the need for transactional intermediaries and thus reducing transaction costs. 
@@ -31,13 +34,25 @@ Based on the anonymity of blockchain technology and the transparency of informat
 		<em>Figure 2</em>
 
 
-![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/3.png)
+<p align="center">
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/3.png" alt="Sample"  width="500" >
+	<p align="center">
+		<em>Figure 3</em>
 
-![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/4.png)
+<p align="center">
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/4.png" alt="Sample"  width="500" >
+	<p align="center">
+		<em>Figure 4</em>
 
-![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/5.png)
+<p align="center">
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/5.png" alt="Sample"  width="500" >
+	<p align="center">
+		<em>Figure 5</em>
 
-![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/6.png)
+<p align="center">
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/6.png" alt="Sample"  width="500" >
+	<p align="center">
+		<em>Figure 6</em>
 
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/7.png)
 
