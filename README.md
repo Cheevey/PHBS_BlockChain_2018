@@ -28,21 +28,44 @@ The current copyright purchases and transactions are mostly middleman trading mo
 
 Based on the anonymity of blockchain technology and the transparency of information, it can obtain the public data information left by users on the network under the premise of protecting user privacy, and realize the accurate delivery of digital advertisements.
 
+##The Market Value of Today's Entertainment Industry 
+
+###The state of global growth of the entertainment industry
+
+At present, the entertainment market is undergoing a new round of explosive growth along with technological innovation. According to *PwC's 2018-2022 Global Entertainment and Media Industry Outlook*, the global entertainment and media industry's revenue will achieve a compound annual growth rate of 4.4% over the next five years.  It will gradually break through the $200 million mark and rush to $250 million. The valuation of many companies related to the entertainment sector has gradually expanded with the market.
+
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/2.png" alt="Sample"  width="500" >
 	<p align="center">
-		<em>Figure 2</em>
+		<em>Global E&M revenue </em>
+		
+###Growth in representative countries
 
+As we all know, the United States is the most powerful country in the global entertainment industry. From American dramas to Hollywood blockbusters to variety shows, the IP content of the US entertainment industry has long dominated the world. At the capital level, the US big entertainment industry is also a high-return “evergreen tree” with a long-term golden development period. IP in the US movie market, such as Marvel and DC, has brought a huge data flow and high commercial value, which has led to a high return on revenue. At the same time, from the research of *Tianfeng Securities*, as early as 2015, China has surpassed Japan and became the second largest market in terms of global entertainment revenue. It is easy to have a general understanding of the entire industry from the growth of the entertainment industry in China and the United States. (Data from [iResearch] (https://data.iresearch.com.cn/home.shtml))
 
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/3.png" alt="Sample"  width="550" >
 	<p align="center">
-		<em>Figure 3</em>
+		<em>The growth of the entertainment industry in China and in US</em>
+		
+The emerging E&M market, for example China, has good prospects for future development. But compared with developed economies, China's entertainment industry is still in the early stages of development. In 2017, the GDP of China's  entertainment industry accounted for 4.4% of total GDP, while the United States accounted for 6.7%. As China's per capita GDP gradually increases, the Chinese entertainment industry will achieve explosive growth driven by the popularity of the Internet and the increasing awareness of IP copyright.Compared with the development level of the United States, the Chinese cultural and entertainment industry still has a large room for development. As the economic strength grows and the people's material level rises, the Chinese E&M industry will grow faster than the United States in the future.
 
+###The driving force for the growth of the entertainment industry
+In recent years, the growth of the entertainment industry has mainly been Internet + entertainment. From [China Industrial Information Network](http://www.chyxx.com/data/chuanmei/), it can be concluded that the market size of China's Internet pan-entertainment industry reached 409.88 billion in 2017, with an increase of 41.8% over the previous year.
+		
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/4.png" alt="Sample"  width="500" >
 	<p align="center">
-		<em>Figure 4</em>
+		<em>The development of China's Internet entertainment industry</em>
+
+On the online channel, there are many emerging industries with good profitability such as live broadcast and short video. They have made an important contribution to the expansion of market space in the Internet entertainment market. It is expected that with the continuous transfer of user behavior in the future, online channels will become the main carrier of user entertainment functions.
+Future Internet entertainment development will be promoted by the following reasons:
+
+1) Online entertainment is more flexible and less affected by time and space;
+2) The emergence of the Internet has created more new forms of entertainment, enriching people's entertainment experience;
+3) Online entertainment can provide more personalized entertainment content through data analysis and other means to enhance the user experience;
+4) Online entertainment gives users a wider creative space and richer entertainment content than offline entertainment with more limited content and form.
+Through the above analysis, there are also reasons to believe that the current global entertainment market is extremely valuable and has a large investment space. The blockchain is in it, and it is becoming a new outlet for the entertainment industry through the rise of Internet entertainment.
 
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/5.png)
 
