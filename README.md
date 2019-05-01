@@ -46,3 +46,5 @@ Based on the anonymity of blockchain technology and the transparency of informat
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/11.png)
 
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/12.png)
+
+![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/13.png)
