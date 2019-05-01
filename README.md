@@ -181,7 +181,7 @@ UIP is easy to implement the digital IP of the user through the traceable, distr
 
 When a user uploads each piece of work, it is automatically time stamped by the trading platform. At the same time, in order to prevent some lawless elements from plagiarizing others' success, and on the trading platform to seek profits through transactions, UIP will adopt the real-name system registration transaction mode, and carry out credit system for individuals.
 
-**principle model**
+**Principle model**
 
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/11.png)
 
@@ -213,7 +213,15 @@ The value of UIP token will increase with the IPUnit of a large number of IPs on
 
 ## The practical application of *White Night*
 
+*Keigo Higashino*, a Japanese mystery writer. His masterpieces include "After School", "Secret", "White Night", "Drinking with a Blink", "Galli", "Dedication of Suspect X", "Predicting Dreams", "Lakeside", etc. In 1985, he won the 31st Edogawa Trouble Prize with "After After School", and he became a professional writer and started his full-time writing.
+
+In August 2017, Keigo Higashino announced his intention to join the UIP program.  Any copyright transaction such as Keigo Higashino's works of film and television adaptation, animation games, etc. can be tracked and inquired at any time through blockchain technology, and obtain its own profits from each copyright transaction.
+
+In the case of the *White Night* , it can be adapted as a TV by a Japanese company. At the same time, it can be sold to China as a movie as an adaptation. This is a primary derivative. A concert of the same name may appear in the Chinese market. This is a second derivative of the film for the Chinese market. Afterwards, it may be placed on the network to do a live show of PGC or UGC. Finally, it may become other forms of online or broadcast activities. Copyright will be divided and will continue to benefit.
+
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/12.png)
+
+That is to say, in the future, Higashino Keigo will no longer have any works that are authorized to be remake and adapted without his own knowledge and consent. All products based on various IP-derived games, animations, musicals, etc. Can be tracked at any time through blockchain technology.
 
 ## UIP's market performance
 <p align="center">
@@ -223,6 +231,7 @@ The value of UIP token will increase with the IPUnit of a large number of IPs on
 
 
 ## Valuation of UIP
+
 
 ## Future Outlook
 
