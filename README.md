@@ -44,10 +44,7 @@ Based on the anonymity of blockchain technology and the transparency of informat
 	<p align="center">
 		<em>Figure 4</em>
 
-<p align="center">
-	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/5.png" alt="Sample"  width="800" >
-	<p align="center">
-		<em>Figure 5</em>
+![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/5.png)
 
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/6.png" alt="Sample"  width="500" >
@@ -55,22 +52,22 @@ Based on the anonymity of blockchain technology and the transparency of informat
 		<em>Figure 6</em>
 
 <p align="center">
-	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/7.png" alt="Sample"  width="500" >
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/7.png" alt="Sample"  width="300" >
 	<p align="center">
 		<em>Figure 7</em>
 
 <p align="center">
-	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/8.png" alt="Sample"  width="500" >
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/8.png" alt="Sample"  width="300" >
 	<p align="center">
 		<em>Figure 8</em>
 
 <p align="center">
-	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/9.png" alt="Sample"  width="500" >
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/9.png" alt="Sample"  width="300" >
 	<p align="center">
 		<em>Figure 9</em>
 
 <p align="center">
-	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/10.png" alt="Sample"  width="500" >
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/10.png" alt="Sample"  width="300" >
 	<p align="center">
 		<em>Figure 10</em>
 
@@ -78,4 +75,7 @@ Based on the anonymity of blockchain technology and the transparency of informat
 
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/12.png)
 
-![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/13.png)
+<p align="center">
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/13.png" alt="Sample"  width="800" >
+	<p align="center">
+		<em>Figure 13</em>
