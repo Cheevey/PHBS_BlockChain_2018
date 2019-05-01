@@ -233,13 +233,42 @@ We can see that UIP has experienced a small shock since its inception at the end
 
 It can be found from the trading pair, UIP is mainly traded in BTC and ETH, and there are also USD transactions. I have come to a certain conclusion in conjunction with the price trend of BTC. The price trend of UIP is highly correlated with the price trend of BTC during this period. After a series of huge increases, the bubble burst.
 
-First of all,  there may be a kind of linkage in the category of digital currency. Public discussion of digital currencies can raise different investment sentiments.
+First of all,  there may be a kind of linkage in the category of digital currency. Public discussion of digital currencies can raise different investment sentiments. Any new technology will be divided into several stages, and it has received a lot of attention after it was born. Everyone expects it very high and exceeds its limits. Then there will be a downward trend, and there will be a constant emergence of companies that disappoint everyone. Then the industry returns to rationality; in the end, some companies with solid and practical foundations will rise up and reach scale until they flourish.
+
+I also have a few conjectures about the problems caused by the application of the blockchain in copyright: It is good to want to make the copyright information transparent and transparent through the blockchain technology, and to stimulate the active creation of the full-text entertainment industry and produce high-quality content. But the promotion of new technologies will inevitably touch and subvert many old structures. This will inevitably encounter the strong counter-attacks of promotion barriers and big companies.
+
+The most serious barriers in the world may be the rapid changes in its investment environment. Even so, the current story in the blockchain field can satisfy all the craziest definitions of speculation. On the other hand, as a global, private entrepreneur and investor subversion, it seems so irritating.
+
+Last but not least, The loosening of policies in different countries is also a great reason.
 
 
 ## Valuation of UIP
 
+Based on the analysis of the market size of the previous part, we can conclude that the global entertainment and media industry revenue in 2019 is about 2.23 trillion US dollars (about 15.0 trillion yuan).
+
+If the transaction volume of the UIP trading platform in 2019 can account for one-thousandth of the revenue of the global entertainment and media industry, then the total transaction IP transaction of the trading platform will reach 14.99 billion yuan. According to the transaction rate of 3% of the trading platform, the total platform transaction fee income is 450 million yuan.
 
 ## Future Outlook
+
+For UIP, I think the best development path is a full-featured platform for pan-entertainment. It means that not only copyright-related business can be carried out on the platform. At the same time, UIP can add the business of the whole industry chain to the platform.
+
+(1) Purchase IP for project crowdfunding business
+
+In non-blockchain crowdfunding projects, many crowdfunding platforms often charge a service fee of 5% to 15%. This means that only about 80% of the costs are ultimately used in the project, the service fee charged will be used for the operation of the crowdfunding platform, or the crowdfunding platform will be invested in the project with the same amount of funds.
+
+The biggest advantage of blockchain crowdfunding is that all the funds raised will be used for the production of film and television projects, and investors can clearly see their own funds and final income. Blockchain crowdfunding can use more funds for the production of the project, which is very beneficial to the creation and development of young directors.
+
+(2) Distribution and marketing business
+
+Onlinely select marketing companies and marketing programs and audiences, and clearly see the expenditure and expenditure direction of each payment; at the same time, the timely feedback of online data can also allow creators to check the performance of marketing programs at any time. Adjust the advertising plan to achieve better advertising and marketing purposes.
+
+(3) Back-end to C business
+
+Online ticketing, including live performances, musical plays, dramas, stage plays, concerts, livehouses, and movie tickets. The goal is to change the opacity of fares and flatten the trading process.
+
+In the entire cultural and creative industry, the industrial chain is particularly long, and there are many intermediaries in the middle. The value inequality caused by the middle is particularly serious. Therefore, in fact, these areas are particularly suitable for re-engineering with blockchain.
+
+Through the blockchain, let more fans, including more so-called behind-the-scenes, participate together, and cooperate with innovation and promotion to create a more fair and different format from today. So this is what we see, the biggest value of the blockchain. In one words: re-release creativity, redefine the company.
 
 ## Reference
 [1] YangLu, Theblockchain: State-of-the-artandresearchchallenges, JournalofIndustrialInformationIntegration, 2019, https://doi.org/10.1016/j.jii.2019.04.002.
