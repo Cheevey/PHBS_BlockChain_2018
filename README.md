@@ -229,6 +229,12 @@ That is to say, in the future, Higashino Keigo will no longer have any works tha
 	<p align="center">
 		<em>The above figure shows the market price fluctuation of UIP. The left figure shows the market price fluctuation of BTC, and the right figure shows the ratio of the counterparty of UIP.</em>
 
+We can see that UIP has experienced a small shock since its inception at the end of 2017. Then it ushered in two large increase. But then it went through a wave of plunge. Even after a small period of small rises after the fall, but gradually slowly fell back to the low price. But recently, it has once again ushered in a wave of warmth.
+
+It can be found from the trading pair, UIP is mainly traded in BTC and ETH, and there are also USD transactions. I have come to a certain conclusion in conjunction with the price trend of BTC. The price trend of UIP is highly correlated with the price trend of BTC during this period. After a series of huge increases, the bubble burst.
+
+First of all,  there may be a kind of linkage in the category of digital currency. Public discussion of digital currencies can raise different investment sentiments.
+
 
 ## Valuation of UIP
 
