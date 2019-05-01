@@ -58,14 +58,26 @@ In recent years, the growth of the entertainment industry has mainly been Intern
 	<p align="center">
 		<em>The development of China's Internet entertainment industry</em>
 
-On the online channel, there are many emerging industries with good profitability such as live broadcast and short video. They have made an important contribution to the expansion of market space in the Internet entertainment market. It is expected that with the continuous transfer of user behavior in the future, online channels will become the main carrier of user entertainment functions.
+On the online channel, there are many emerging industries with good profitability such as live broadcast, short video and so on. They have made an important contribution to the expansion of market space in the Internet entertainment market. It is expected that with the continuous transfer of user behavior in the future, online channels will become the main carrier of user entertainment.
 Future Internet entertainment development will be promoted by the following reasons:
 
 1) Online entertainment is more flexible and less affected by time and space;
 2) The emergence of the Internet has created more new forms of entertainment, enriching people's entertainment experience;
 3) Online entertainment can provide more personalized entertainment content through data analysis and other means to enhance the user experience;
 4) Online entertainment gives users a wider creative space and richer entertainment content than offline entertainment with more limited content and form.
-Through the above analysis, there are also reasons to believe that the current global entertainment market is extremely valuable and has a large investment space. The blockchain is in it, and it is becoming a new outlet for the entertainment industry through the rise of Internet entertainment.
+
+Through the above analysis, there are also reasons to believe that the current global entertainment market is extremely valuable and has a large investment space. The blockchain is becoming a new outlet for the entertainment industry through the rise of Internet entertainment.
+
+## The disadvantages of today's entertainment industry
+
+Today's entertainment industry has generated a lot of problems due to the over-interpretation of the IP market, including: authorization errors, plagiarism, pricing chaos and opaque transactions…
+
+As an emerging country, China's problems are even more acute：
+
+1) The problem of too long a production-to-output supply chain between the creator and the user is even more prominent. According to the data, online literary piracy has lost more than 10 billion in one year. Under the squeezing of pirated products, the annual revenue of China's music copyright party only accounts for about 2% of the total output value. This figure accounts for 70% and 90% of the developed countries such as Europe, America, Japan and South Korea, respectively, and the gap is huge compared with foreign countries.
+2) The entertainment market is dominated by large enterprises such as Alibaba and Tencent. The centralized resource monopoly will make the quality content of small people covered, which will become the limit of future entertainment development.
+3) IP is in the hands of a few: the excessive realization of fiery IP makes the buyer overstressed, and these economic pressures will eventually be transferred to consumers.
+Combined with the characteristics and advantages of the blockchain, it can be believed that it will alleviate the chaos of the current entertainment industry to a certain extent, adding a strength to the rapid growth of the entertainment industry.
 
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/5.png)
 
