@@ -138,7 +138,7 @@ UIP will also log in to the Pan-Entertainment Expert Advisor. In addition to 100
 	<p align="center">
 		<em>Lingyan Zhao</em>
 		
-*Lingyan Zhao*, the founder of UIP, is a strong woman who is deeply involved in the integration of technology and art assets. She studied at Murdoch University in Australia and received her Masters in Media Management. She studied dual degrees in Electronic Information Engineering and Radio and Television Coordinator at Communication University of China. She has worked as a newspaper editor, film producer and director at home and abroad. In the [previous interview](https://www.jinse.com/news/blockchain/60077.html) , she once talked about the film about Bitcoin, which gave her great shock and inspiration.
+*Lingyan Zhao*, the founder of UIP, is a strong woman who is deeply involved in the integration of technology and art assets. She studied at Murdoch University in Australia and received her Masters in Media Management. She studied dual degrees in Electronic Information Engineering and Radio and Television Coordinator at Communication University of China. She has worked as a newspaper editor, film producer and director at home and abroad. In the [previous interview](https://www.jianshu.com/p/b065cf523e9d) , she once talked about the film about Bitcoin, which gave her great shock and inspiration.
 
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/8.png" alt="Sample"  width="300" >
@@ -173,12 +173,39 @@ UIP has signed strategic partnership agreements with a number of companies, incl
 
 Recently, the UIP team has reached strategic cooperation with many institutions such as INBlockchain, Taiyiyun Technology, Viking Capital, Digital Chain Technology and Canada CK, and will jointly build the world's first top blockchain IP exchange. They are excellent companies in the industry and have a good strategic relationship with UIP. At the same time they are completing a lot of related projects. These projects and UIP have opened up the upstream and downstream links of the entire entertainment content industry. From the generation of content copyright, the transaction circulation forms a complete industrial chain and an ecological industry circle.
 
+### UIP Four-stage product application
+
+* IP deposit:
+
+UIP is easy to implement the digital IP of the user through the traceable, distributed, difficult to tamper and other characteristics of the blockchain itself, as well as the hashing algorithm, asymmetric encryption and timestamp.
+
+When a user uploads each piece of work, it is automatically time stamped by the trading platform. At the same time, in order to prevent some lawless elements from plagiarizing others' success, and on the trading platform to seek profits through transactions, UIP will adopt the real-name system registration transaction mode, and carry out credit system for individuals.
+
+**principle model**
 
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/11.png)
 
+The user uploads the digital file that wants to be verified to the UIP system. The UIP will generate the user block and calculate its hash value. Then, UIP records the root hash value of the user block Merkle Tree to the anchor block. In the block of the chain; finally, the UIP broadcasts the root hash of the anchor block Merkle Tree through the transaction to the blockchain.
+
+Through the above mechanism, UIP will minimize the cost of user deposits and ensure that the stored data is broadcast on the public chain, thus ensuring that its stored data is difficult to be tampered with by any individual or organization.
+
+* IP transaction
+
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/12.png)
+
+* IP separation
+
+## The practical application of *White Night*
 
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/14.png" alt="Sample"  width="800" >
 	<p align="center">
 		<em>Figure 14</em>
+
+
+## Valuation of UIP
+
+## Future Outlook
+
+## Reference
+
