@@ -191,16 +191,35 @@ Through the above mechanism, UIP will minimize the cost of user deposits and ens
 
 * IP transaction
 
-![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/12.png)
+When the seller generates trading demand, it will define its own IP type for sale according to the clear choice of the trading platform. Once the seller initiates a transaction request for the work uploaded by himself, the system will review and keep the seller's work confidential through the transaction committee of the autonomous community. When the seller uploads his or her legal artwork in accordance with the formal procedures. The system will match the system according to the needs of the buyer and seller. The buyer will filter the matched content and select the item he likes for the next transaction.
+
+For some small and medium-sized IPs, when the buyer chooses to trade with the seller, both parties have the right to request an anonymous or non-anonymous transaction. For many medium and large IPs, they will not only be self-sustaining the IP source itself, but will also be extremely cautious about trading IP derivatives. The highest price is not the only transaction purpose. The buyer and the seller need to conduct multiple rounds of communication and collision, and even the seller must communicate with the buyer in the process of producing the derivative products. To ensure that the derivative works satisfy the seller's original imagination of the literary content. Therefore, large IP generally takes real-name transactions.
+
+After the transaction is successful, the buyer has his own needs. A derivative of the purchased IP may be derivatized twice and linked to the trading platform to continue the sale, thereby alleviating the pressure on the flow of funds.
+
 
 * IP separation
 
+In the second point, I mainly mentioned trading the entire IP or IP derivatives. But when buyers and sellers need to split their own IP rights, they need to mention IPUnit. IPUnit's transaction uses UIPtoken as the basic transaction medium, that is, the buyer use the UIP platform, and the seller converts the IP copyright into its exclusive IPUnit and sends it to the buyer; the buyer and the seller must negotiate the IPUnit circulation and distribution ratio before the transaction; IPUnit is unique to its IP and cannot be universal. The buyer needs to hold at least 51% of its quantity to ensure the ownership. So fans can digitally collect their favorite work by holding IPUnit.
+
+* IP share
+
+When the purpose of the author's writing is to let more people accept the enlightenment of the content rather than profit, after authorisation and the self-governing committee review, the IP source can be shared.  When the IP assets are continuously split and one day reaches a certain "shared model" (any party's share of the holdings does not exceed 51%), then either party has the opportunity to use the asset (refer to the world famous book in the real world) Such as the copyright right has been opened, a certain percentage of IPUnit holders have the right to use.
+
+### UIP business model
+When an IP is initiated by a seller and the IPUnit is generated for the first time, a certain percentage of development costs will be charged. When IPUnit trades through a UIP token, a very small transaction fee is charged for each transaction.
+
+The value of UIP token will increase with the IPUnit of a large number of IPs on the platform and the increase of IPUnit transactions. The application scenarios and transaction value of UIP will continue to expand.
+
 ## The practical application of *White Night*
 
+![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/12.png)
+
+## UIP's market performance
 <p align="center">
-	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/14.png" alt="Sample"  width="800" >
+	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/14.png" alt="Sample"  width="700" >
 	<p align="center">
-		<em>Figure 14</em>
+		<em>The above figure shows the market price fluctuation of UIP. The left figure shows the market price fluctuation of BTC, and the right figure shows the ratio of the counterparty of UIP.</em>
 
 
 ## Valuation of UIP
@@ -208,4 +227,16 @@ Through the above mechanism, UIP will minimize the cost of user deposits and ens
 ## Future Outlook
 
 ## Reference
-
+[1] YangLu, Theblockchain: State-of-the-artandresearchchallenges, JournalofIndustrialInformationIntegration, 2019, https://doi.org/10.1016/j.jii.2019.04.002.
+[2] SavelyevA.Copyrightintheblockchainera: Promisesandchallenges[J].Computerlaw&securityreview,2018,34(3):550-561.
+[3] Yuan Yili, Lu Shan. The Application of Blockchain Technology in Copyright Confirmation and Transaction and Its Legal Regulations[J]. Journal of Xihua University(Philosophy and Social Sciences), 2019, 38(02): 19-24 .
+[4] Ma Zhiguo, Liu Hui. Construction of Digital Copyright Management System from the Perspective of Blockchain Technology[J]. Science & Technology and Law, 2018(02): 1-9.
+[5] Shenyang, Zhang Naiguang, Xu Bangbao. Design of a copyright registration transaction scheme based on blockchain technology [J]. Radio and TV information, 2019 (03): 70-74.
+[6] Sun Yan. Research on Legal Issues of Digital Copyright Protection under Blockchain Technology[J].Hebei Agricultural Machinery, 2019(03):67-68.
+[7] Zhao Feng, Surrounding. Analysis of Digital Copyright Protection Based on Blockchain Technology[J].科技与法律,2017(01):59-70.
+[8] Lin Xiaochi, Hu Yeqianwen. A Review of Research on Blockchain Technology[J].Financial Market Research,2016(02):97-109.
+[9] ClayMichaelGillespie.BlockchainTechnologyandBitcoinMicropaymentsMightPreventContentPiracy.http://insidebitcoins.com/news/blockchain-technology-and-bitcoin-micropayments-mightprevent-content-piracy/29059.2015
+[10] Lu, Y. Blockchainandtherelatedissues: areviewofcurrentresearchtopics.JournalofManagementAnalytics.2018.5(4), pp.231-255
+[11] SwanM.Blockchain: Blueprintforaneweconomy[M]."O'ReillyMedia, Inc.", 2015.
+[12] HollandM, NigischerC, Stjepandić J, etal.Copyrightprotectioninadditivemanufacturingwithblockchainapproach[J].TransdisciplinaryEngineering:AParadigmShift,2017,5:914-921.
+[13] TsaiWT, FengL, ZhangH, etal.Intellectual-propertyblockchain-basedprotectionmodelformicrofilms[C]//2017IEEESymposiumonService-OrientedSystemEngineering(SOSE).IEEE, 2017:174-178.
