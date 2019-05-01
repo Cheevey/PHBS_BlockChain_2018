@@ -24,3 +24,25 @@ The current copyright purchases and transactions are mostly middleman trading mo
 * Digital advertising is accurately placed
 
 Based on the anonymity of blockchain technology and the transparency of information, it can obtain the public data information left by users on the network under the premise of protecting user privacy, and realize the accurate delivery of digital advertisements.
+
+![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/2.png)
+
+![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/3.png)
+
+![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/4.png)
+
+![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/5.png)
+
+![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/6.png)
+
+![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/7.png)
+
+![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/8.png)
+
+![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/9.png)
+
+![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/10.png)
+
+![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/11.png)
+
+![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/12.png)
