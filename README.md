@@ -228,15 +228,26 @@ The value of UIP token will increase with the IPUnit of a large number of IPs on
 
 ## Reference
 [1] YangLu, Theblockchain: State-of-the-artandresearchchallenges, JournalofIndustrialInformationIntegration, 2019, https://doi.org/10.1016/j.jii.2019.04.002.
+
 [2] SavelyevA.Copyrightintheblockchainera: Promisesandchallenges[J].Computerlaw&securityreview,2018,34(3):550-561.
+
 [3] Yuan Yili, Lu Shan. The Application of Blockchain Technology in Copyright Confirmation and Transaction and Its Legal Regulations[J]. Journal of Xihua University(Philosophy and Social Sciences), 2019, 38(02): 19-24 .
+
 [4] Ma Zhiguo, Liu Hui. Construction of Digital Copyright Management System from the Perspective of Blockchain Technology[J]. Science & Technology and Law, 2018(02): 1-9.
+
 [5] Shenyang, Zhang Naiguang, Xu Bangbao. Design of a copyright registration transaction scheme based on blockchain technology [J]. Radio and TV information, 2019 (03): 70-74.
+
 [6] Sun Yan. Research on Legal Issues of Digital Copyright Protection under Blockchain Technology[J].Hebei Agricultural Machinery, 2019(03):67-68.
+
 [7] Zhao Feng, Surrounding. Analysis of Digital Copyright Protection Based on Blockchain Technology[J].科技与法律,2017(01):59-70.
+
 [8] Lin Xiaochi, Hu Yeqianwen. A Review of Research on Blockchain Technology[J].Financial Market Research,2016(02):97-109.
-[9] ClayMichaelGillespie.BlockchainTechnologyandBitcoinMicropaymentsMightPreventContentPiracy.http://insidebitcoins.com/news/blockchain-technology-and-bitcoin-micropayments-mightprevent-content-piracy/29059.2015
-[10] Lu, Y. Blockchainandtherelatedissues: areviewofcurrentresearchtopics.JournalofManagementAnalytics.2018.5(4), pp.231-255
-[11] SwanM.Blockchain: Blueprintforaneweconomy[M]."O'ReillyMedia, Inc.", 2015.
-[12] HollandM, NigischerC, Stjepandić J, etal.Copyrightprotectioninadditivemanufacturingwithblockchainapproach[J].TransdisciplinaryEngineering:AParadigmShift,2017,5:914-921.
-[13] TsaiWT, FengL, ZhangH, etal.Intellectual-propertyblockchain-basedprotectionmodelformicrofilms[C]//2017IEEESymposiumonService-OrientedSystemEngineering(SOSE).IEEE, 2017:174-178.
+
+[9] Clay Michael Gillespie.Blockchain Technology and Bitcoin Micropayments Might Prevent Content Piracy.http://insidebitcoins.com/news/blockchain-technology-and-bitcoin-micropayments-mightprevent-content-piracy/29059.2015
+
+[10] Lu, Y. Blockchain and there lated issues: areviewofcurrentresearchtopics.JournalofManagementAnalytics.2018.5(4), pp.231-255
+
+[11] SwanM.Blockchain: Blue print for an ew economy[M]."O'ReillyMedia, Inc.", 2015.
+
+[12] HollandM, NigischerC, Stjepandić J, etal.Copyright protection in additive manufacturing with blockchain approach[J].Transdisciplinary Engineering:AParadigmShift,2017,5:914-921.
+[13] TsaiWT, FengL, ZhangH, etal.Intellectual-property blockchain-based protection model for microfilms[C]//2017IEEESymposiumonService-OrientedSystemEngineering(SOSE).IEEE, 2017:174-178.
