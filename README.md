@@ -88,12 +88,31 @@ As an emerging country, China's problems are even more acute：
 
 Combined with the characteristics and advantages of the blockchain, it can be believed that it will alleviate the chaos of the current entertainment industry to a certain extent, adding a strength to the rapid growth of the entertainment industry.
 
+##  Blockchain + pan-entertainment industry
+
+**Pan-entertainment**, originally referred to as the multi-field symbiosis of the Internet and mobile Internet, to create a fan economy of star IP. At its core is IP, which can be a story, a character, or anything else that a lot of users love.
+
+Recently, the definition of pan-entertainment has been re-expanded. The cross-border of industries based in IP is essentially the cross-border of scene realization. Novels may be adapted into games. This game may have a show in the future. And fans probably bought this show ticket because of this IP, and bought a wealth management product based on this game in the exhibition area of the festival.
+
+The essence of pan-entertainment is that IP content generates cultural transmission and economic realization in different scenarios through the time. The core of IP business value is diversified derivative operation, and finally achieves the purpose of realization.
+
+
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/5.png)
 
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/6.png" alt="Sample"  width="500" >
 	<p align="center">
-		<em>Figure 6</em>
+		<em>IP value realization process</em>
+
+The current IP transactions basically have an intermediary and need to pay a large amount of commission to the middle market. At the same time, cross-border IP transactions have generated significant communication costs.
+
+The rapid development of the Internet only enhances the speed and efficiency of global communication, but there is no way to achieve value transfer, and the blockchain can do this. The platform of the blockchain began to appear, mainly adopting the mode of entertainment IP + commercial trade + blockchain, and created the intelligent IP copyright intelligent trading market.
+
+Therefore, the decentralization model came into being. It is very convenient for art workers to sell their own works. Buyers can also communicate directly with artists in one-to-one form. The copyright of works can be freely traded and freely distributed on the platform in the form of digital currency. Everyone can Become the holder of the copyright of the work!
+
+The open and transparent trading procedure is actually more beneficial to the original authors at the waist and the tail to strive for the rights they deserve. After all, the head IP is a scarce resource that all platforms are robbing, and most of the waist and tail are sold together in a packaged form.  This is unfair and does not stimulate the enthusiasm of all creators.
+
+Combined with the blockchain, the depth of IP transactions will increase, and art exchanges no longer require borders and intermediaries.
 
 <p align="center">
 	<img src="https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/7.png" alt="Sample"  width="300" >
