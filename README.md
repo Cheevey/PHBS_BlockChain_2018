@@ -1,7 +1,10 @@
 # Research on the application of blockchain in copyright - based on Unilimited IP	
 ## Introduction
 ### What is copyright?
-At the beginning of the report, I will briefly introduce the main subject of the study: **intellectual property (IP)**. It is a category of property that includes intangible creations of the human intellect（"Understanding Industrial Property". World Intellectual Property Organization.）. It mainly includes two parts, one is **industrial property** and the other is **copyright**. **Copyright** is a legal right, existing in many countries, that grants the creator of an original work exclusive rights to determine whether, and under what conditions, this original work may be used by others. However I will focus on the IP application of the entertainment industry by analyzing copyright. So in this report, I will equate IP with copyright.
+At the beginning of the report, I will briefly introduce the main subject of the study: **intellectual property (IP)**. It is a category of property that includes intangible creations of the human intellect（"Understanding Industrial Property". World Intellectual Property Organization.）. It mainly includes two parts, one is **industrial property** and the other is **copyright**. 
+
+**Copyright** is a legal right, existing in many countries, that grants the creator of an original work exclusive rights to determine whether, and under what conditions, this original work may be used by others. However I will focus on the IP application of the entertainment industry by analyzing copyright. So in this report, I will equate IP with copyright.
+
 ### Why can it be related with the blockchain?
 
 Why does it seem that a centrally managed copyright will be related to the blockchain? According to [PWC's latest research](https://www.pwc.com/gx/en/industries/tmt/media/outlook.html), the blockchain has become the eight key technologies affecting the development of the entertainment industry.
@@ -11,6 +14,7 @@ Why does it seem that a centrally managed copyright will be related to the block
 	<p align="center">
 		<em>key technologies affecting the development of the entertainment industry</em>
 
+
 The characteristics of the blockchain have to be the crucial factor. Features are as follows: 
 1. The blockchain enables peer-to-peer transactions, eliminating the need for transactional intermediaries and thus reducing transaction costs. 
 2. Transaction settlement is almost real-time, which improves transaction efficiency and greatly improves asset utilization. 
@@ -18,12 +22,15 @@ The characteristics of the blockchain have to be the crucial factor. Features ar
 4. Programmable blockchain automates the transaction process.
 
 With the advent of the global digital age, the traditional publishing industry has shifted from paper to digital. The digital reading market and the online music market are all developing rapidly. It is foreseeable that in the near future, many copyrighted content will be digitally digitized versions of the network. Blockchain technology will bring the following three major changes to the current digital rights market:
+
 *  Copyright protection
 
 At present, there are a series of problems in the copyright field, such as difficulty in obtaining evidence, long cycle, and high cost. The blockchain has certain advantages in copyright registration and notarization. First, the openness of the blockchain allows anyone to write information to the blockchain at any time and any place. This makes copyright registration unrestricted by time and space, and the cost required by the conventional method is small. Furthermore, the information on the blockchain cannot be tampered with as soon as it is written. All copyright information is open and transparent, it is very convenient to consult and do "existence proof", which can effectively defend rights and prevent plagiarism.
+
 * Copyright transaction
 
 The current copyright purchases and transactions are mostly middleman trading models. The royalty needs to reach the copyright owner through IP agent brokers, distribution companies, copyright agents, platform service providers and so on. Through the blockchain to achieve copyright transactions on the chain, all transaction information can be tracked and queried, avoiding multiple authorizations, pricing confusion, fraud and so on. At the same time, it can directly connect the copyright buyers, and the peer-to-peer transaction method removes the high cost brought by the centralized platform, so that users and authors can obtain greater profits.
+
 * Digital advertising is accurately placed
 
 Based on the anonymity of blockchain technology and the transparency of information, it can obtain the public data information left by users on the network under the premise of protecting user privacy, and realize the accurate delivery of digital advertisements.
@@ -51,6 +58,7 @@ As we all know, the United States is the most powerful country in the global ent
 The emerging E&M market, for example China, has good prospects for future development. But compared with developed economies, China's entertainment industry is still in the early stages of development. In 2017, the GDP of China's  entertainment industry accounted for 4.4% of total GDP, while the United States accounted for 6.7%. As China's per capita GDP gradually increases, the Chinese entertainment industry will achieve explosive growth driven by the popularity of the Internet and the increasing awareness of IP copyright.Compared with the development level of the United States, the Chinese cultural and entertainment industry still has a large room for development. As the economic strength grows and the people's material level rises, the Chinese E&M industry will grow faster than the United States in the future.
 
 ### The driving force for the growth of the entertainment industry
+
 In recent years, the growth of the entertainment industry has mainly been Internet + entertainment. From [China Industrial Information Network](http://www.chyxx.com/data/chuanmei/), it can be concluded that the market size of China's Internet pan-entertainment industry reached 409.88 billion in 2017, with an increase of 41.8% over the previous year.
 		
 <p align="center">
@@ -77,6 +85,7 @@ As an emerging country, China's problems are even more acute：
 1) The problem of too long a production-to-output supply chain between the creator and the user is even more prominent. According to the data, online literary piracy has lost more than 10 billion in one year. Under the squeezing of pirated products, the annual revenue of China's music copyright party only accounts for about 2% of the total output value. This figure accounts for 70% and 90% of the developed countries such as Europe, America, Japan and South Korea, respectively, and the gap is huge compared with foreign countries.
 2) The entertainment market is dominated by large enterprises such as Alibaba and Tencent. The centralized resource monopoly will make the quality content of small people covered, which will become the limit of future entertainment development.
 3) IP is in the hands of a few: the excessive realization of fiery IP makes the buyer overstressed, and these economic pressures will eventually be transferred to consumers.
+
 Combined with the characteristics and advantages of the blockchain, it can be believed that it will alleviate the chaos of the current entertainment industry to a certain extent, adding a strength to the rapid growth of the entertainment industry.
 
 ![image](https://github.com/Cheevey/PHBS_BlockChain_2018/blob/master/images/5.png)
