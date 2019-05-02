@@ -111,7 +111,7 @@ Combined with the blockchain, the depth of IP transactions will increase, and ar
 
 ## What is UIP - Global Entertainment Copyright Trading Platform
 
-### Bascic Introduction
+### Basic Introduction
 
 **UnlimitedIP (UIP)** is an entertainment and intellectual property trading platform based on EOS. Utilizing the technology of blockchain and combining the EOS operating system's support for millions of commercial transactions, low latency and free of charge, UIP is committed to providing one-stop entertainment copyright services to global pan-entertainment IP holders.
 
