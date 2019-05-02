@@ -127,7 +127,7 @@ A total number of 1.5 billion UIP tokens will be released in the next few years 
 
 ### Copyright form
 
-Each IP meets the following requirements on the entertainment IP intelligent trading platform: (1) the first transaction occurs; (2) the transaction medium is based on the UIPtoken, and the exclusive “IPUnit” is generated, and the buyer chooses whether to sell the percentage through the trading platform. The percentage indicates the size of the equity held by IP. On the one hand, this kind of asset split can alleviate the huge economic pressure of the buyer. On the other hand, IPUnit is held by truly favorite shareholders. Good IP itself as a digital asset should also have a certain degree of sharing and collection value.
+Each IP meets the following requirements on the UIP trading platform: (1) the first transaction occurs; (2) the transaction medium is based on the UIPtoken, and the exclusive “IPUnit” is generated, and the buyer chooses whether to sell the percentage through the trading platform. The percentage indicates the size of the equity held by IP. On the one hand, this kind of asset split can alleviate the huge economic pressure of the buyer. On the other hand, IPUnit is held by truly favorite shareholders. Good IP itself as a digital asset should also have a certain degree of sharing and collection value.
 
 UIP will also log in to the Pan-Entertainment Expert Advisor. In addition to 100% of IP-derived content cross-selling, you can also hold shares in the derivative value of this IP.
 
@@ -247,6 +247,8 @@ Last but not least, The loosening of policies in different countries is also a g
 Based on the analysis of the market size of the previous part, we can conclude that the global entertainment and media industry revenue in 2019 is about 2.23 trillion US dollars (about 15.0 trillion yuan).
 
 If the transaction volume of the UIP trading platform in 2019 can account for one-thousandth of the revenue of the global entertainment and media industry, then the total transaction IP transaction of the trading platform will reach 14.99 billion yuan. According to the transaction rate of 3% of the trading platform, the total platform transaction fee income is 450 million yuan.
+
+According to the research on E&M enterprises, the sales expenses of the entertainment industry are generally higher, and the final net profit rate is basically around 20%. The technology for blockchain helps to reduce certain costs. So I estimate that UIP's net profit margin can reach 40%. So I calculate the cash flow of UIP at 180million. After discounting at an interest rate of 8%, it can be concluded that the enterprise value is about 2250 million.
 
 ## Future Outlook
 
